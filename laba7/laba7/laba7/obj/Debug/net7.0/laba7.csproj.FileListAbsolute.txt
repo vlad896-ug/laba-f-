@@ -1,0 +1,14 @@
+C:\Users\Adm\source\repos\laba7\laba7\bin\Debug\net7.0\laba7.exe
+C:\Users\Adm\source\repos\laba7\laba7\bin\Debug\net7.0\laba7.deps.json
+C:\Users\Adm\source\repos\laba7\laba7\bin\Debug\net7.0\laba7.runtimeconfig.json
+C:\Users\Adm\source\repos\laba7\laba7\bin\Debug\net7.0\laba7.dll
+C:\Users\Adm\source\repos\laba7\laba7\bin\Debug\net7.0\laba7.pdb
+C:\Users\Adm\source\repos\laba7\laba7\obj\Debug\net7.0\laba7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adm\source\repos\laba7\laba7\obj\Debug\net7.0\laba7.AssemblyInfoInputs.cache
+C:\Users\Adm\source\repos\laba7\laba7\obj\Debug\net7.0\laba7.AssemblyInfo.cs
+C:\Users\Adm\source\repos\laba7\laba7\obj\Debug\net7.0\laba7.csproj.CoreCompileInputs.cache
+C:\Users\Adm\source\repos\laba7\laba7\obj\Debug\net7.0\laba7.dll
+C:\Users\Adm\source\repos\laba7\laba7\obj\Debug\net7.0\refint\laba7.dll
+C:\Users\Adm\source\repos\laba7\laba7\obj\Debug\net7.0\laba7.pdb
+C:\Users\Adm\source\repos\laba7\laba7\obj\Debug\net7.0\laba7.genruntimeconfig.cache
+C:\Users\Adm\source\repos\laba7\laba7\obj\Debug\net7.0\ref\laba7.dll
