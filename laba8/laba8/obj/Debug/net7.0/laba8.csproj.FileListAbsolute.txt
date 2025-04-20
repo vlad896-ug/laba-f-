@@ -1,0 +1,14 @@
+C:\Users\Adm\source\repos\laba8\laba8\bin\Debug\net7.0\laba8.exe
+C:\Users\Adm\source\repos\laba8\laba8\bin\Debug\net7.0\laba8.deps.json
+C:\Users\Adm\source\repos\laba8\laba8\bin\Debug\net7.0\laba8.runtimeconfig.json
+C:\Users\Adm\source\repos\laba8\laba8\bin\Debug\net7.0\laba8.dll
+C:\Users\Adm\source\repos\laba8\laba8\bin\Debug\net7.0\laba8.pdb
+C:\Users\Adm\source\repos\laba8\laba8\obj\Debug\net7.0\laba8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adm\source\repos\laba8\laba8\obj\Debug\net7.0\laba8.AssemblyInfoInputs.cache
+C:\Users\Adm\source\repos\laba8\laba8\obj\Debug\net7.0\laba8.AssemblyInfo.cs
+C:\Users\Adm\source\repos\laba8\laba8\obj\Debug\net7.0\laba8.csproj.CoreCompileInputs.cache
+C:\Users\Adm\source\repos\laba8\laba8\obj\Debug\net7.0\laba8.dll
+C:\Users\Adm\source\repos\laba8\laba8\obj\Debug\net7.0\refint\laba8.dll
+C:\Users\Adm\source\repos\laba8\laba8\obj\Debug\net7.0\laba8.pdb
+C:\Users\Adm\source\repos\laba8\laba8\obj\Debug\net7.0\laba8.genruntimeconfig.cache
+C:\Users\Adm\source\repos\laba8\laba8\obj\Debug\net7.0\ref\laba8.dll
